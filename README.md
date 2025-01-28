@@ -1,4 +1,4 @@
-# **🚀 Nome do Projeto**
+# **AvalIA**
 
 ### **🔗 Link do Agente GPT:**  
 > _[Insira o link do GPT criado aqui.]_
@@ -6,14 +6,12 @@
 ---
 
 ## **👥 Integrantes do Grupo**  
-- [Nome do integrante 1](#)
-- [Nome do integrante 2](#)
-- [Nome do integrante 3](#)
-- [Nome do integrante 4](#)
-- [Nome do integrante 5](#)
-- [Nome do integrante 6](#)
-- [Nome do integrante 7](#)
-- [Nome do integrante 8](#)
+- Ana Cristina Alves Jardim
+- Enzo Araújo de Rezende
+- Felipe Oliveira Barbosa Viana
+- Maria Vitória Dos Santos
+- Samuel Vono Godoi Chiovato
+- Vinícius Ciardi
 
 ---
 
@@ -54,8 +52,5 @@
 - 🔗 [Link 1](#)  
 - 🔗 [Link 2](#)  
 - 🔗 [Link 3](#)  
-
-
-Sugestão: Crie uma pasta chamada Base de Conhecimentos no repositório e adicione todos os conteúdos relevantes e utilizados dentro dessa pasta. Aponte os links para os arquivos nela.
 
 
