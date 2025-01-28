@@ -1,4 +1,4 @@
-# **AVAL-IA**
+# **AVALIA**
 
 ### **🔗 Link do Agente GPT:**  
 > _[Insira o link do GPT criado aqui.]_
