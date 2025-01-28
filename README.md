@@ -11,12 +11,12 @@
 - Felipe Oliveira Barbosa Viana
 - Maria Vitória Dos Santos
 - Samuel Vono Godoi Chiovato
-- Vinícius Ciardi
+- Vinícius Lucas Ciardi
 
 ---
 
 ## **📄 Descrição do Projeto**  
-> _[Descreva aqui o propósito, objetivos e funcionalidades do projeto. Inclua detalhes importantes e o impacto que ele busca causar.]_
+O propósito do projeto é auxiliar líderes pelo mundo a concretizarem ainda mais nos desafios do dia-a-dia. A partir da IA criada a pessoa que procurou-a conseguirá ver o que ela consegue melhorar nas suas ações como líder 
 
 ---
 
@@ -31,8 +31,8 @@
 
 ## **💡 Temas da Conversa** 
 > _[Liste aqui alguns possíveis temas que o agente pode conversar.]_
-- 🛠️ **Tema 1:** Descrição breve do tema  
-- 🌐 **Tema 2:** Descrição breve do tema  
+- 🛠️ **Tema 1:** Desenvolvimento de liderança  
+- 🌐 **Tema 2:** Autoconhecimento, Comunicação, Pensamento Crítico e Colaboração  
 - 🔒 **Tema 3:** Descrição breve do tema  
 - 📊 **Tema 4:** Descrição breve do tema  
 
