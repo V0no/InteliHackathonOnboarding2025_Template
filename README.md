@@ -16,7 +16,7 @@
 ---
 
 ## **📄 Descrição do Projeto**  
-O projeto visa extrair do chat GPT a possibilidade de o líder explorar as melhores características dos funcionários, além de aprimorar aquelas que demandam desenvolvimento. O grupo receberá do líder um formulário que, após ser preenchido, será inserido na IA. A partir disso, o chat atribuirá notas e comentários às seguintes características: comunicador, planejador, analista, executor e empreendedor. Por fim, o chat gerará um PDF contendo todas as informações resultantes das respostas dos participantes do grupo.
+O projeto extrai do chat GPT a possibilidade de o líder explorar as melhores características dos funcionários, além de aprimorar aquelas que demandam desenvolvimento. O grupo receberá do responsável um formulário que, após ser preenchido, será inserido na IA. A partir disso, o chat atribuirá notas e comentários às seguintes características: comunicador, planejador, analista, executor e empreendedor. Por fim, o chat gerará um PDF contendo todas as informações resultantes das respostas dos participantes do grupo.
 
 ---
 
