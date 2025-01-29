@@ -16,7 +16,7 @@
 ---
 
 ## **📄 Descrição do Projeto**  
-O propósito do projeto consiste em auxiliar líderes ao redor do Brasil a se desenvolverem diante dos desafios cotidianos. A proposta é criar um chat GPT que possibilite ao líder explorar as melhores características dos funcionários, bem como aprimorar aquelas que necessitam de desenvolvimento. O grupo receberá do líder um formulário que, ao ser preenchido, será inserido na IA. A partir disso, o chat atribuirá notas e comentários às seguintes características: comunicador, planejador, analista, executor e empreendedor. Afinal, o chat criará um pdf com todas as informações do resultado das respostas dos participantes do grupo.
+O projeto visa extrair do chat GPT a possibilidade de o líder explorar as melhores características dos funcionários, além de aprimorar aquelas que demandam desenvolvimento. O grupo receberá do líder um formulário que, após ser preenchido, será inserido na IA. A partir disso, o chat atribuirá notas e comentários às seguintes características: comunicador, planejador, analista, executor e empreendedor. Por fim, o chat gerará um PDF contendo todas as informações resultantes das respostas dos participantes do grupo.
 
 ---
 
