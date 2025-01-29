@@ -49,7 +49,7 @@ O projeto extrai do chat GPT a possibilidade de o líder explorar as melhores ca
 - 📕 _[Livros](Empatia Assertiva: como ser um lider incisivo sem perder a humanidade. Scott, kim; O Pensamento Crítico: História e Método. Schubert, Humberto; Liderança: como conquistar a confiança, a lealdade e a admiração das pessoas. Carnegie, Dale; Arrume sua cama: pequenas atitudes que podem mudar a sua vida e talvez o mundo. Mcraven, William;)
 
 ### **📖 Documentações Complementares:**  
-- 🔗 [Link 1](#)  
+- 🔗 [[Link 1](#) ](https://portal.anhembi.br/blog/perfis-profissionais) 
 - 🔗 [Link 2](#)  
 - 🔗 [Link 3](#)  
 
