@@ -44,9 +44,9 @@ O propósito do projeto consiste em auxiliar líderes ao redor do Brasil a se de
 - 📗 _[link para um arquivo .txt contendo os prompts utilizados no treinamento do agente]_
 
 ### **📘 Principais Referências Utilizadas:**  
-- 📗 _[Nome ou link da base de conhecimento 1]_  
-- 📙 _[Nome ou link da base de conhecimento 2]_  
-- 📕 _[Nome ou link da base de conhecimento 3]_  
+- 📗 _[Notícia 1](https://userh.com.br/blog/36-empresas-nao-fazem-avaliacao-desempenho-fuja-dessa-estatistica)  
+- 📙 _[Notícia 2](https://economia.uol.com.br/noticias/redacao/2020/11/10/dar-feedback-e-o-maior-ponto-fraco-na-gestao-brasileira-diz-pesquisa.htm)
+- 📕 _[Notícia 3](  
 
 ### **📖 Documentações Complementares:**  
 - 🔗 [Link 1](#)  
