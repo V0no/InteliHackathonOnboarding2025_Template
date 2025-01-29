@@ -44,12 +44,16 @@ O projeto extrai do chat GPT a possibilidade de o líder explorar as melhores ca
 - 📗 _[link para um arquivo .txt contendo os prompts utilizados no treinamento do agente]_
 
 ### **📘 Principais Referências Utilizadas:**  
-- 📗 _[Notícia 1](https://userh.com.br/blog/36-empresas-nao-fazem-avaliacao-desempenho-fuja-dessa-estatistica)  
-- 📙 _[Notícia 2](https://economia.uol.com.br/noticias/redacao/2020/11/10/dar-feedback-e-o-maior-ponto-fraco-na-gestao-brasileira-diz-pesquisa.htm)
-- 📕 _[Livros](Empatia Assertiva: como ser um lider incisivo sem perder a humanidade. Scott, kim; O Pensamento Crítico: História e Método. Schubert, Humberto; Liderança: como conquistar a confiança, a lealdade e a admiração das pessoas. Carnegie, Dale; Arrume sua cama: pequenas atitudes que podem mudar a sua vida e talvez o mundo. Mcraven, William;)
+- 📗 [Notícia 1](https://userh.com.br/blog/36-empresas-nao-fazem-avaliacao-desempenho-fuja-dessa-estatistica)  
+- 📙 [Notícia 2](https://economia.uol.com.br/noticias/redacao/2020/11/10/dar-feedback-e-o-maior-ponto-fraco-na-gestao-brasileira-diz-pesquisa.htm)
+- 📕 Livros:
+    - "Empatia Assertiva: como ser um lider incisivo sem perder a humanidade", Kim Scott;
+    - "O Pensamento Crítico: História e Método", Humberto Schubert;
+    - "Liderança: como conquistar a confiança, a lealdade e a admiração das pessoas", Dale Carnagie;
+    - "Arrume sua cama: pequenas atitudes que podem mudar a sua vida e talvez o mundo", William Mcraven.
 
 ### **📖 Documentações Complementares:**  
-- 🔗 [[https://portal.anhembi.br/blog/perfis-profissionais](#) ] 
+- 🔗 [Portal Anhembi - Perfis Porfissionais](https://portal.anhembi.br/blog/perfis-profissionais) 
 - 🔗 [Link 2](#)  
 - 🔗 [Link 3](#)  
 
