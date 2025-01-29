@@ -32,9 +32,9 @@ O projeto extrai do chat GPT a possibilidade de o líder explorar as melhores ca
 ## **💡 Temas da Conversa** 
 > _[Liste aqui alguns possíveis temas que o agente pode conversar.]_
 - 🛠️ **Tema 1:** Desenvolvimento de liderança  
-- 🌐 **Tema 2:** Autoconhecimento, Comunicação, Pensamento Crítico e Colaboração  
-- 🔒 **Tema 3:** Descrição breve do tema  
-- 📊 **Tema 4:** Descrição breve do tema  
+- 🌐 **Tema 2:** Autoconhecimento  
+- 🔒 **Tema 3:** Comunicação  
+- 📊 **Tema 4:** Pensamento Crítico  
 
 ---
 
@@ -46,7 +46,7 @@ O projeto extrai do chat GPT a possibilidade de o líder explorar as melhores ca
 ### **📘 Principais Referências Utilizadas:**  
 - 📗 _[Notícia 1](https://userh.com.br/blog/36-empresas-nao-fazem-avaliacao-desempenho-fuja-dessa-estatistica)  
 - 📙 _[Notícia 2](https://economia.uol.com.br/noticias/redacao/2020/11/10/dar-feedback-e-o-maior-ponto-fraco-na-gestao-brasileira-diz-pesquisa.htm)
-- 📕 _[Notícia 3](  
+- 📕 _[Livros](Empatia Assertiva: como ser um lider incisivo sem perder a humanidade. Scott, kim; O Pensamento Crítico: História e Método. Schubert, Humberto; Liderança: como conquistar a confiança, a lealdade e a admiração das pessoas. Carnegie, Dale; Arrume sua cama: pequenas atitudes que podem mudar a sua vida e talvez o mundo. Mcraven, William;)
 
 ### **📖 Documentações Complementares:**  
 - 🔗 [Link 1](#)  
