@@ -16,7 +16,6 @@
 ---
 
 ## **📄 Descrição do Projeto**  
-O propósito do projeto é auxiliar líderes pelo mundo a se concretizarem ainda mais nos desafios do dia-a-dia, nossa ideia é criar um chat gpt que auxilia o líder à explorar as melhores características das pessoas e melhorar as piores.   
 
 ---
 
