@@ -16,36 +16,33 @@
 ---
 
 ## **📄 Descrição do Projeto**  
-O projeto extrai do agente GPT a possibilidade do líder explorar as melhores características dos funcionários, além de aprimorar aquelas que demandam desenvolvimento. O grupo receberá do responsável um link pelo qual a IA trabalhada apresentará perguntas e formulará um feedback a partir das seguintes características: comunicador, planejador, analista, executor e empreendedor. Por fim, o chat gerará um PDF contendo o resultado da pesquisa a fim de 
+O projeto extrai do agente GPT a possibilidade do líder explorar as melhores características dos funcionários, além de aprimorar aquelas que demandam desenvolvimento. O grupo receberá do responsável um link pelo qual a IA trabalhada apresentará perguntas e formulará um feedback a partir das seguintes características: comunicador, planejador, analista, executor e empreendedor. Por fim, o chat gerará um PDF contendo o resultado da pesquisa com a valiação feito, a partir do documento gerado o líder recebra um e-mail contendo as informações para usufruir delas.
 
 ---
 
 ## **🤖 Instruções do GPT** 
-> _[Descreva aqui algumas instruções básicas de uso do agente.]_
-1. ✅ Certifique-se de usar **linguagem clara e objetiva** ao descrever problemas ou requisitos.  
-2. 🛠️ Estruture as perguntas e comandos de forma lógica para facilitar o entendimento.  
-3. 🔍 Sempre especifique os detalhes relevantes ao contexto do projeto.  
-4. 🎯 Adapte as interações conforme necessário, mantendo foco nos temas definidos abaixo.  
+1. ✅ Certifique-se de ler atentamente as intruções apresentadas pelo agente.
+2. 🛠️ Responda objetivamente as perguntas, utilizando apenas as notas numéricas entre 1 e 5.  
+3. 🔍 Use o chat exclusivamente para o fim proposto e com perguntas pertinentes ao tema.
+4. 🎯 Seja ético com as mensagens enviadas, não enviem mensagens de áudio nem vídeos.
 
 ---
 
 ## **💡 Temas da Conversa** 
-> _[Liste aqui alguns possíveis temas que o agente pode conversar.]_
-- 🛠️ **Tema 1:** Desenvolvimento de liderança  
-- 🌐 **Tema 2:** Autoconhecimento  
-- 🔒 **Tema 3:** Comunicação  
-- 📊 **Tema 4:** Pensamento Crítico  
+- 🛠️ **Tema 1:** Desenvolvimento de Liderança. 
+- 🌐 **Tema 2:** Autoconhecimento Profissional. 
+- 🔒 **Tema 3:** Comunicação Empresarial.  
+- 📊 **Tema 4:** Pensamento Crítico nos Negócios. 
 
 ---
 
 ## **📚 Bases de Conhecimento**  
-> _[Indique aqui documentos utilizados para o treinamento especializado do agente, se houver]_
 ### **⚠️ Prompts**
 - 📗 _[link para um arquivo .txt contendo os prompts utilizados no treinamento do agente]_
 
 ### **📘 Principais Referências Utilizadas:**  
-- 📗 [Notícia 1](https://userh.com.br/blog/36-empresas-nao-fazem-avaliacao-desempenho-fuja-dessa-estatistica)  
-- 📙 [Notícia 2](https://economia.uol.com.br/noticias/redacao/2020/11/10/dar-feedback-e-o-maior-ponto-fraco-na-gestao-brasileira-diz-pesquisa.htm)
+- 📗 [Avaliação de desempenho](https://userh.com.br/blog/36-empresas-nao-fazem-avaliacao-desempenho-fuja-dessa-estatistica)  
+- 📙 [Cultura de feedback](https://economia.uol.com.br/noticias/redacao/2020/11/10/dar-feedback-e-o-maior-ponto-fraco-na-gestao-brasileira-diz-pesquisa.htm)
 - 📕 Livros:
     - "Empatia Assertiva: como ser um lider incisivo sem perder a humanidade", Kim Scott;
     - "O Pensamento Crítico: História e Método", Humberto Schubert;
