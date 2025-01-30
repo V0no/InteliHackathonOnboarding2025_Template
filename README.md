@@ -1,7 +1,7 @@
 # **Aval-IA**
 
 ### **🔗 Link do Agente GPT:**  
-> _[Insira o link do GPT criado aqui.]_
+> [_[Aval-IA]_](https://chatgpt.com/g/g-6799300dfe088191909ff07a658d0ce3-aval-ia)
 
 ---
 
@@ -50,8 +50,6 @@ O projeto extrai do agente GPT a possibilidade do líder explorar as melhores ca
     - "Arrume sua cama: pequenas atitudes que podem mudar a sua vida e talvez o mundo", William Mcraven.
 
 ### **📖 Documentações Complementares:**  
-- 🔗 [Portal Anhembi - Perfis Porfissionais](https://portal.anhembi.br/blog/perfis-profissionais) 
-- 🔗 [Link 2](#)  
-- 🔗 [Link 3](#)  
+- 🔗 [Portal Anhembi - Perfis Porfissionais](https://portal.anhembi.br/blog/perfis-profissionais)   
 
 
