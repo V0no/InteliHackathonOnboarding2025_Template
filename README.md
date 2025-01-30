@@ -38,7 +38,7 @@ O projeto extrai do agente GPT a possibilidade do líder explorar as melhores ca
 
 ## **📚 Bases de Conhecimento**  
 ### **⚠️ Prompts**
-- 📗 _[link para um arquivo .txt contendo os prompts utilizados no treinamento do agente]_
+- 📗 [Prompts](https://drive.google.com/file/d/1z-Kd7s0W_HCLYooPlrk8pKoBByYLYN1w/view?usp=sharing)
 
 ### **📘 Principais Referências Utilizadas:**  
 - 📗 [Avaliação de desempenho](https://userh.com.br/blog/36-empresas-nao-fazem-avaliacao-desempenho-fuja-dessa-estatistica)  
